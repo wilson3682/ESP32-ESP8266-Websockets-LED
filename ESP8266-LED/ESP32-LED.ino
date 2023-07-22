@@ -15,7 +15,7 @@
 #include <SPIFFS.h>
 #include <FS.h>
 #include <FastLED.h> // by Daniel Garcia
-#include <WiFiManager.h> 
+#include <WiFiManager.h> //https://github.com/tzapu/WiFiManager
 #define LED_COUNT 50 // the number of pixels on the strip
 #define DATA_PIN 2 // (D5 nodemcu), important: https://github.com/FastLED/FastLED/wiki/ESP8266-notes
 
