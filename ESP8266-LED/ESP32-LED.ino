@@ -20,8 +20,8 @@
 #define DATA_PIN 2 // (D5 nodemcu), important: https://github.com/FastLED/FastLED/wiki/ESP8266-notes
 
 // SSID and password of the access point
-const char* ssid = "WilCar_AP";
-const char* password = "6770960103";
+const char* ssid = "*********";
+const char* password = "*********";
 
 // static IP address configuration
 IPAddress Ip(192,168,100,10); // IP address for your ESP
