@@ -1,6 +1,6 @@
 # ESP8266 - Websockets - LED strip
 
-Control an addressable LED strip with an ESP8266 via a Web browser.
+Control an addressable LED strip with an ESP32 or ESP8266 via a Web browser.
 
 <img src="images/mobile-app.jpg" width="250">
 
